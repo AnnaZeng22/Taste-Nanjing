@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Taste Nanjing",
+  "description": "Discover Heritage. A premium culinary guide to Nanjing, featuring AI menu translation and authentic local stories.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
